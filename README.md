@@ -7,7 +7,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Data+Engineer+%F0%9F%93%8A;Building+Scalable+ETL+Pipelines+%E2%9A%99%EF%B8%8F;Turning+Raw+Data+Into+Business+Impact+%F0%9F%9A%80;AWS+%7C+Spark+%7C+Airflow+%7C+SQL+%7C+Python" />
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ## 👋 Hey, I'm Prashant
@@ -67,6 +71,18 @@ I build systems that teams can trust.
 </p>
 
 ---
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+</div>
+
+</p>
+<p align="center">
+Made with ❤️ by Prashant
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer"/>

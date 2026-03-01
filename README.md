@@ -47,7 +47,7 @@ I build systems that teams can trust.
 </p>
 
 ---
-
+## 📊 GitHub Activity
 <img src="https://raw.githubusercontent.com/prashantkumar-12/prashantkumar-12/master/github-snake.svg" />
 
 ---

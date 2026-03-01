@@ -48,12 +48,6 @@ I build systems that teams can trust.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantkumar-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumar-12&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 
 ---
@@ -67,7 +61,7 @@ I build systems that teams can trust.
   <a href="https://github.com/prashantkumar-12">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-  <a href="mailto:prashant03082000@gmail.com">
+  <a href="mailto:prashantyadav03082000@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
